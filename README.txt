@@ -1,1 +1,1 @@
-Repositorie for OTUS cpp course
+README in test2 branch
